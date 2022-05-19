@@ -1,5 +1,7 @@
 # Frontend Mentor - Order summary card
 
+[Order- summary- Petrus Borges](https://petrusborges-order-summary.netlify.app)
+
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
